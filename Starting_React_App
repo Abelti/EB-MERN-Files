@@ -1,0 +1,8 @@
+First you need to install Node.JS
+This will also automatically install the npm package manager
+After doing so, create an empty where you wish to put your react app in
+Open the created empty folder in a command line or in a visual studio terminal
+After doing so, run the command "npx create-react-app <application_name>" and hit Enter
+The application name can be any name you wish to use for your react application
+Next, go to the created application folder using the command "cd <application_name>"
+Finally, run the command "npm start" to start your react application and see the result in a web browser
